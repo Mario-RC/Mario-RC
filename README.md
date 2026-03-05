@@ -54,8 +54,8 @@ Here are some ideas to get you started:
 
 <h4 align="left"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">View my stats on Github</h4>
 
-![Mario-RC's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mario-RC&count_private=true)
+![Mario-RC's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mario-RC&count_private=true&v=1)
 
 <h4 align="left"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">See my top languages</h4>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-RC&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-RC&layout=compact&langs_count=12&v=1)](https://github.com/anuraghazra/github-readme-stats)
