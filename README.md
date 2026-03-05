@@ -48,14 +48,13 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/512px-Google_Colaboratory_SVG_Logo.svg.png"></code>
 
 ----
 
 <h4 align="left"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">View my stats on Github</h4>
 
-![Mario-RC's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mario-RC&count_private=true&v=1)
+![Mario-RC's GitHub stats](https://TU-DOMINIO.vercel.app/api?username=Mario-RC&count_private=true)
 
 <h4 align="left"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">See my top languages</h4>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-RC&layout=compact&langs_count=12&v=1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://TU-DOMINIO.vercel.app/api/top-langs/?username=Mario-RC&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
